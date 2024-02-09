@@ -4,7 +4,7 @@ This project aims to create a simple, lightweight, and visually appealing QR cod
 
 # Objectives:
 Create a user-friendly interface with an input field and a button to generate the QR code representation.
-Use HTML for structure, CSS for styling, and potentially JavaScript for basic interactivity.
+CSS for styling, and potentially JavaScript for basic interactivity.
 Achieve a visually accurate representation of a QR code using pseudo-elements and background images.
 Avoid complex JavaScript libraries for ease of use and accessibility.
 
